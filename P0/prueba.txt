@@ -1,3 +1,4 @@
-Esta es una prueba de creación
-de un archivo de texto desde
-VSCODE
+Este es un fichero de prueba....
+Que lo vamos a añadir al proyecto...
+de la Práctica 0
+

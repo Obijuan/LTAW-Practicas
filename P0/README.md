@@ -1,12 +1,14 @@
  # Práctica 0
 
-Probando el VSCode....
-Esta es otra línea
+Esta es mi primera modificación
+Estoy probando el VSCode
 
-*************************************
-** Mi segundo cambio
-*************************************
+## Probando.....
+Un segundo commit
 
-... Un tercer cambio
+## Otra prueba
+
+Un tercer cambios
 
 
+![](Ejercicio2-img1.gif)
